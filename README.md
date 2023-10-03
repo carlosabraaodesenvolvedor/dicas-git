@@ -33,3 +33,9 @@ git push -u origin main
 * clone : baixar um repositorio remoto para um repositorio local
 * add : rastrear e adicionar arquivos e mudanças em relação ao que já havia resgistrado antes (stage)
 * commit : salvar alterações / arquivos no repositorio local
+* push : fazer upload a partir do repositorio local, enviando ao repositorio remoto
+* pull : fazer download de alterações a partir do repositorio remoto até o repositorio local
+* merge : mesclar codigos distintos em um só unico 
+* diff : visualizar diferenças entre códigos-fonte
+* log : visualizar o histórico de publicações de código-fonte 
+* stash : reverte alterações referentes momentaneamente e armazenar tais alterações em memória para recuperação das alteraçõe posteriormente
