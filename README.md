@@ -24,4 +24,12 @@ git branch -M main
 git push -u origin main
 
 ```
+# Varios Comandos do GIT e exemplos de uso
 
+* init : inicializar o projeto/ repositório
+* branch : informações sobre branches
+* checkout : navegar pelas branches 
+* status : checar o que há de novo / mudanças
+* clone : baixar um repositorio remoto para um repositorio local
+* add : rastrear e adicionar arquivos e mudanças em relação ao que já havia resgistrado antes (stage)
+* commit : salvar alterações / arquivos no repositorio local
